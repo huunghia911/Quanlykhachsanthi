@@ -1,0 +1,10 @@
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+F:\Hoc tap\Thuc tap nhom\TTN_QuanLyKhachSan\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
+E:\Thực Tập Nhóm\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+E:\Thực Tập Nhóm\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+E:\Thực Tập Nhóm\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Thực Tập Nhóm\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+E:\Thực Tập Nhóm\TTN_QuanLyKhachSan-master\TTN_QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
